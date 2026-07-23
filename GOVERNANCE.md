@@ -1,6 +1,6 @@
-# FlutterForge Governance
+# OpenForge Governance
 
-This document describes how FlutterForge is run. It is intentionally lightweight
+This document describes how OpenForge is run. It is intentionally lightweight
 — we optimize for shipping useful tools and for a welcoming community, not for
 process.
 

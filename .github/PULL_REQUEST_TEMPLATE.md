@@ -1,4 +1,4 @@
-<!-- Thanks for contributing to FlutterForge! -->
+<!-- Thanks for contributing to OpenForge! -->
 
 ## What does this PR do?
 

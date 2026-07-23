@@ -1,7 +1,7 @@
-# Contributing to FlutterForge
+# Contributing to OpenForge
 
-Welcome! FlutterForge exists to turn the pain points Flutter engineers hit into
-open-source tools — and that only works with your input. This is the org-wide
+Welcome! OpenForge exists to turn the pain points developers hit across
+frameworks into open-source tools — and that only works with your input. This is the org-wide
 guide; individual repositories may add a `CONTRIBUTING.md` with project-specific
 build and test steps, which takes precedence for that repo.
 

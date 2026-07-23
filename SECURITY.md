@@ -1,6 +1,6 @@
 # Security Policy
 
-This is the org-wide default policy for FlutterForge projects. A repository may
+This is the org-wide default policy for OpenForge projects. A repository may
 publish its own `SECURITY.md` with project-specific detail, which takes
 precedence for that repo.
 
@@ -22,7 +22,7 @@ updated as we investigate and ship a fix. Coordinated disclosure is appreciated.
 
 ## Scope note
 
-Most FlutterForge tools are **development-time** utilities (lints, codegen, CLIs)
+Most OpenForge tools are **development-time** utilities (lints, codegen, CLIs)
 with no production runtime or network surface. For those, the highest-impact
 "security" issues are usually **incorrect auto-fixes** or **false negatives** —
 please report those the same way.

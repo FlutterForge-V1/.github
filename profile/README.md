@@ -1,8 +1,8 @@
 <div align="center">
 
-# 🛠️ FlutterForge
+# ⚒️ OpenForge
 
-**Open-source tools that fix the recurring pain points Flutter engineers hit.**
+**Open-source solutions to the problems developers hit — across every framework.**
 
 Community-driven · MIT-licensed · Built in the open
 
@@ -12,17 +12,20 @@ Community-driven · MIT-licensed · Built in the open
 
 ## Why we exist
 
-Every Flutter engineer runs into the same walls: the same footguns, the same
-boilerplate, the same "why isn't there just a tool for this?" moments.
-FlutterForge turns those recurring frustrations into **small, focused,
-open-source tools** — and gives them away.
+Every developer runs into the same walls — the same footguns, the same
+boilerplate, the same "why isn't there just a tool for this?" moments. And it
+happens in **every** ecosystem: Flutter, React, Vue, Svelte, Django, Rails,
+Spring, and the rest.
+
+OpenForge turns those recurring frustrations into **small, focused, open-source
+tools** — whatever the framework — and gives them away.
 
 Our loop is simple:
 
-1. **Listen** — collect real pain points and limitations engineers face.
+1. **Listen** — collect real pain points and limitations developers face.
 2. **Forge** — build a focused, well-tested tool that removes that pain.
 3. **Share** — ship it open-source, documented, and easy to adopt.
-4. **Grow** — grow the Flutter community by making the hard parts easier.
+4. **Grow** — grow the community by making the hard parts easier, everywhere.
 
 ## What we build
 
@@ -31,29 +34,30 @@ Our loop is simple:
 - **Developer tooling** — CLIs, CI helpers, and IDE integrations.
 - **Guides & references** — hard-won knowledge, written down.
 
-If it's a problem many Flutter developers share, it's a candidate for the forge.
+If it's a problem many developers share, in any framework, it's a candidate for
+the forge.
 
 ## 🔦 Projects
 
-| Project | What it does | Status |
-|---------|--------------|--------|
-| [**leak_sentinel**](https://github.com/FlutterForge-V1/leak_sentinel) | A `custom_lint` plugin that finds disposal-based memory leaks (undisposed controllers, uncancelled subscriptions/timers) and fixes them with one click. | 🌱 v0.1 |
+| Project | Ecosystem | What it does | Status |
+|---------|-----------|--------------|--------|
+| [**leak_sentinel**](https://github.com/FlutterForge-V1/leak_sentinel) | Flutter / Dart | A `custom_lint` plugin that finds disposal-based memory leaks and fixes them with one click. | 🌱 v0.1 |
 
-*More in the forge. Have an idea? [Propose one.](#-get-involved)*
+*More in the forge — for more frameworks. Have an idea? [Propose one.](#-get-involved)*
 
 ## 🤝 Get involved
 
 You don't need to be an expert — you need a pain point and a willingness to
-share it. Here's how to help, from lowest to highest effort:
+share it. From lowest to highest effort:
 
 - **Use the tools** and tell us what breaks. Every bug report sharpens a tool.
-- **Report a Flutter pain point** — open an issue on the relevant repo, or start
-  a [discussion](https://github.com/orgs/FlutterForge-V1/discussions) if it
-  doesn't have a home yet.
-- **Contribute a fix or a rule** — see each repo's `CONTRIBUTING.md`. Most of
-  our tools are designed so a new rule/feature is only a few lines.
-- **Propose a new tool** — open a discussion describing the pain and the tool
-  you wish existed. If it resonates, we'll incubate it together.
+- **Report a pain point** — in any framework. Open an issue on the relevant
+  repo, or start a [discussion](https://github.com/orgs/FlutterForge-V1/discussions)
+  if it doesn't have a home yet.
+- **Contribute a fix or a feature** — see each repo's `CONTRIBUTING.md`. Our
+  tools are designed so a new rule/feature is usually only a few lines.
+- **Propose a new tool** — describe the pain and the tool you wish existed, for
+  whatever framework. If it resonates, we'll incubate it together.
 
 New here? Read our [**Contributing guide**](https://github.com/FlutterForge-V1/.github/blob/main/CONTRIBUTING.md),
 [**Governance**](https://github.com/FlutterForge-V1/.github/blob/main/GOVERNANCE.md),
@@ -62,6 +66,8 @@ and [**Code of Conduct**](https://github.com/FlutterForge-V1/.github/blob/main/C
 ## 💛 Our values
 
 - **Small and sharp** beats big and vague. Each tool does one thing well.
+- **Framework-agnostic in spirit, expert in specifics.** Each tool is deeply
+  correct for its ecosystem, even as the org spans many.
 - **Zero false positives** — a tool you can't trust gets uninstalled.
 - **Docs are part of the product.** If it isn't documented, it isn't done.
 - **Kindness by default.** We're here to grow the community, not gatekeep it.
@@ -69,8 +75,8 @@ and [**Code of Conduct**](https://github.com/FlutterForge-V1/.github/blob/main/C
 
 ## 📜 License
 
-Unless a repository states otherwise, FlutterForge projects are released under
-the [MIT License](https://opensource.org/licenses/MIT).
+Unless a repository states otherwise, OpenForge projects are released under the
+[MIT License](https://opensource.org/licenses/MIT).
 
 <div align="center">
 
